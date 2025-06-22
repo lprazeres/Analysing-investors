@@ -1,4 +1,5 @@
 🧠 Predicting Customer Purchase Behavior with Logistic Regression
+
 This project aims to predict whether a customer will purchase a product based on features like income, income type, and property ownership. The main focus is on correctly handling categorical variables using OneHotEncoder, and building a clean machine learning pipeline with logistic regression.
 
 📊 Project Overview
